@@ -1,5 +1,3 @@
-# Hello World! This is me MAHI
-
 # 👋 Hello Everyone! I'm MAHI
 
 Welcome to my GitHub profile!  
@@ -19,10 +17,8 @@ I'm passionate about building real-world applications and constantly learning ne
 ## 🛠️ Technologies & Tools
 
 ### 🔹 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector Database](https://img.shields.io/badge/VectorDB-0A0A0A?style=for-the-badge)
+![Milvus](https://img.shields.io/badge/Milvus-00BFFF?style=for-the-badge)
 
 ### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +28,6 @@ I'm passionate about building real-world applications and constantly learning ne
 
 ### 🔹 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
