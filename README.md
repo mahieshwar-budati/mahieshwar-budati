@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 - 🔗 Building RAG architectures using LangChain, LangGraph & Vector Databases.
 - ⚙️ Turning complex AI concepts into practical solutions.
 - 📩 How to reach me:
-    Email: **mahieshwar.budati@gmail.com**
-    LinkedIn: MAHI BUDATI
+    - Email: **mahieshwar.budati@gmail.com**
+    - LinkedIn: MAHI BUDATI
 
 ## 🔥 My Contribution
 ![Snake animation](https://github.com/mahieshwar-budati/mahieshwar-budati/blob/output/github-contribution-grid-snake-dark.svg)
