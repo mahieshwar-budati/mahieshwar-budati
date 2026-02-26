@@ -7,6 +7,10 @@ Welcome to my GitHub profile!
 - 🔗 Building RAG architectures using LangChain, LangGraph & Vector Databases.
 - ⚙️ Turning complex AI concepts into practical solutions.
 - 📩 Contact: **mahieshwar.budati@gmail.com**
+  
+## 🔥 My Contribution
+
+![Snake animation](https://github.com/mahieshwar-budati/mahieshwar-budati/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🛠️ Technologies & Tools
 
@@ -53,11 +57,6 @@ Welcome to my GitHub profile!
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ECC71?style=for-the-badge)
 ![Real--Time Applications](https://img.shields.io/badge/Real--Time%20Applications-FF8C00?style=for-the-badge)
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-E91E63?style=for-the-badge)
----
-
-## 🔥 My Contribution
-
-![Snake animation](https://github.com/mahieshwar-budati/mahieshwar-budati/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
