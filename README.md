@@ -3,10 +3,12 @@
 Welcome to my GitHub profile!  
   
 ## 🚀 About Me
-- 🤖 AI Engineer specializing in intelligent systems & LLM-powered applications.
+- 🤖 AI Engineer specialiZing in intelligent systems & LLM-powered applications.
 - 🔗 Building RAG architectures using LangChain, LangGraph & Vector Databases.
 - ⚙️ Turning complex AI concepts into practical solutions.
-- 📩 Contact: **mahieshwar.budati@gmail.com**
+- 📩 How to reach me:
+    Email: **mahieshwar.budati@gmail.com**
+    LinkedIn: MAHI BUDATI
 
 ## 🔥 My Contribution
 ![Snake animation](https://github.com/mahieshwar-budati/mahieshwar-budati/blob/output/github-contribution-grid-snake-dark.svg)
@@ -62,7 +64,5 @@ Welcome to my GitHub profile!
 ## 🤝 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/mahi-budati1209
-
----
 
 ⭐ Thanks for visiting my profile!
