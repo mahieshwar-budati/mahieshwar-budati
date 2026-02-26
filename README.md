@@ -60,14 +60,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahieshwar-budati&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahieshwar-budati&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/mahi-budati1209
