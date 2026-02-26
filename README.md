@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 🤖 AI Engineer specializing in intelligent systems & LLM-powered applications.
 - 🔗 Building RAG architectures using LangChain, LangGraph & Vector Databases.
 - ⚙️ Turning complex AI concepts into practical solutions.
-- 📩 Contact: **mahieshwar.budati@gmail.com**---
+- 📩 Contact: **mahieshwar.budati@gmail.com**
 
 ## 🛠️ Technologies & Tools
 
