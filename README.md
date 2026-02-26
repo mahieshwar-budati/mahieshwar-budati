@@ -24,12 +24,11 @@ Welcome to my GitHub profile!
 ### 🔹 LLM & RAG Stack
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A4A4A?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector%20Database-0A0A0A?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ### 🔹 Backend
-![Vector Database](https://img.shields.io/badge/VectorDB-0A0A0A?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-0A0A0A?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-00BFFF?style=for-the-badge)
 
 
