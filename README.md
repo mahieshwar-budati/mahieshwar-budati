@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - ⚙️ Turning complex AI concepts into practical solutions.
 - 📩 How to reach me:
     - Email: **mahieshwar.budati@gmail.com**
-    - LinkedIn: MAHI BUDATI
+    -  LinkedIn: **www.linkedin.com/in/mahi-budati1209**
 
 ## 🔥 My Contribution
 ![Snake animation](https://github.com/mahieshwar-budati/mahieshwar-budati/blob/output/github-contribution-grid-snake-dark.svg)
@@ -60,9 +60,5 @@ Welcome to my GitHub profile!
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Real--Time Applications](https://img.shields.io/badge/Real--Time%20Applications-FF8C00?style=for-the-badge)
 ---
-
-## 🤝 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/mahi-budati1209
 
 ⭐ Thanks for visiting my profile!
